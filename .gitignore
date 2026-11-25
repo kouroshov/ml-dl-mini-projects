@@ -1,0 +1,16 @@
+# Datasets (downloaded automatically by the notebooks)
+data/
+*_data/
+F_MNIST_data/
+
+# Python and Jupyter temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Saved models and environments
+*.pt
+*.pth
+.venv/
+venv/
+.env
